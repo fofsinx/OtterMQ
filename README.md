@@ -11,7 +11,7 @@ A high-performance, redis-backed distributed task queue system that lets you wri
 </div>
 
 
-# ![Google Doc](https://docs.google.com/document/d/16bNoGTDqS3aZMKqFLrX33sjG0UjE1ZpXwt7kPqTHEiM/edit?usp=sharing)
+# [Google Doc](https://docs.google.com/document/d/16bNoGTDqS3aZMKqFLrX33sjG0UjE1ZpXwt7kPqTHEiM/edit?usp=sharing)
 
 ## 🌟 Features
 
